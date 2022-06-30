@@ -1,6 +1,5 @@
-# stem_sti
+Dissertation Authors and Their Advisors. Can Gender Diversity in STEM be achieved?
 
-title: Dissertation Authors and Their Advisors. Can Gender Diversity in STEM be achieved?
-subtitle: Online Supplementary Materials
+Online Supplementary Materials
 
 https://hellche.github.io/stem_sti/
