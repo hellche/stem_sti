@@ -4,4 +4,4 @@ Online Supplementary Materials: https://hellche.github.io/stem_sti/
 
 Working paper: `Chechik_Elena_STI2022.pdf`
 
-Presentation: `Chechik_Elena_STI2022_presentation.pdf`
+Presentation: `Chechik_STI2022_presentation.pdf`
