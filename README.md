@@ -1,4 +1,4 @@
-Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?
+# Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?
 
 Online Supplementary Materials: https://hellche.github.io/stem_sti/
 
